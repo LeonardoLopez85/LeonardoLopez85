@@ -1,7 +1,7 @@
 <!-- Banner superior -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Carlos%20Rodríguez%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Leonardo%20Lopez%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">👋 Hola, soy <strong>Carlos Rodríguez</strong></h3>
+<h3 align="center">👋 Hola, soy <strong>Leonardo Lopez</strong></h3>
 <p align="center">
   💼 Desarrollador de Sistemas de Información · 🧠 Full-Stack Developer · 🚀 8+ años de experiencia  
 </p>
