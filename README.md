@@ -1,93 +1,56 @@
-<!-- Banner superior -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Leonardo%20Lopez%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">👋 Hola, soy <strong>Leonardo Lopez</strong></h3>
 <p align="center">
-  💼 Desarrollador de Sistemas de Información · 🧠 Full-Stack Developer · 🚀 8+ años de experiencia  
+  💼 Fundador de TERACOM · 🎓 Estudiante de Ingeniería en TI (UNEMI) · 🛠️ Especialista en Soporte Técnico
 </p>
 
 ---
 
 ### 🧭 Sobre mí
 
-Soy un desarrollador apasionado por la tecnología, con más de **8 años de experiencia** en la creación, diseño e implementación de sistemas de información para instituciones de educación superior y empresas privadas.  
+Soy un profesional del área técnica con base en **Milagro, Ecuador**. Actualmente curso la carrera de **Ingeniería en Tecnologías de la Información** en la **UNEMI**, retomando mi formación académica con la experiencia previa de 5 semestres en la Universidad Agraria del Ecuador.
 
-Trabajo actualmente en la **Universidad Estatal de Milagro (UNEMI)** y soy fundador de **[RunaCode](https://github.com/RunaCode)**, una empresa dedicada al desarrollo de software, automatización y soluciones tecnológicas personalizadas.
+A través de mi negocio **TERACOM**, brindo soporte técnico integral a usuarios y empresas de alto perfil en la región. Me enfoco en mantener la infraestructura tecnológica operativa, integrando hardware de última generación y soluciones de software eficientes.
 
-💡 Me especializo en construir **aplicaciones web escalables, seguras y centradas en el usuario**, integrando backend sólido con **Django** y frontends modernos con **React** o **Svelte**.
+💡 Me mantengo en constante actualización mediante capacitaciones directas de fabricantes líderes como **Intel, AMD y Kingston**, asegurando estándares de calidad en cada intervención técnica.
 
 ---
 
 ### ⚙️ Tecnologías y Herramientas
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-EE3A33?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware_Expert-FFD700?style=for-the-badge&logo=intel&logoColor=black" />
+  <img src="https://img.shields.io/badge/AMD_Certified-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kingston_Tech-FF0000?style=for-the-badge&logo=kingston&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/vMix_Streaming-20232A?style=for-the-badge&logo=video&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sistemas_Operativos-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Experiencia en Proyectos
+### 💼 Experiencia y Clientes
 
-A lo largo de mi trayectoria he desarrollado y mantenido múltiples sistemas institucionales y empresariales, destacando:
+#### 🛠️ TERACOM (Soporte Técnico Empresarial)
+Gestión de infraestructura y soporte para medios de comunicación y empresas clave:
+- **ClickTelevision** / **Cine Cable** / **Milagro Digital**
+- **Últimas Noticias Milagro**
+- Mantenimiento de servidores, estaciones de trabajo y sistemas de transmisión.
 
-#### 🏛️ Sistemas Académicos y Universitarios
-Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módulos de gestión académica, docentes, estudiantes y vinculación:
-- **SAI / BUINCO_SAI / UNEMI_VINCULACION** → Sistema Integrado Académico completo.
-  - 🧰 *Django, React, PostgreSQL, Redis, Moodle API.*
-- **FRONTEND-VINCULACION-UNEMI** → Interfaz moderna para el sistema de vinculación institucional.
-  - ⚙️ *AstroJS, TailwindCSS, API REST.*
-
-#### 💼 Sistemas Administrativos y de Gestión
-- **PROJECT-MS** → Sistema de gestión de proyectos con arquitectura modular.
-  - 🧰 *TypeScript, Django, PostgreSQL.*
-- **INNOTECH-SOLUTIONS** → Plataforma de servicios empresariales.
-  - ⚙️ *TypeScript, ReactJS, NodeJS.*
-- **ANT_WEBSERVICE_MATRICULACION** → Integración con servicios externos de matriculación.
-  - 🔗 *Python, Django REST Framework.*
-- **PT_2025_VGOMEZ** → Automatización institucional en Django.
-  - 🧩 *Python, PostgreSQL.*
-- **SISTEMA DE GESTIÓN ADMINISTRATIVA (Club Nacional)** → Proyecto destacado desarrollado por RunaCode.
-  - 💼 *Django, Bootstrap, PostgreSQL.*
-
-#### 🏋️‍♂️ Sistemas Comerciales y Deportivos
-- **SIFTI** → Sistema Integrado Fitness con control de socios, membresías y asistencias.
-  - ⚙️ *HTML5, Bootstrap, Django REST API.*
-- **CROSSFIT-MILAGRO** → Sistema de control de BOX CrossFit.
-  - 🧰 *PHP, MySQL, HTML.*
-
-#### 🧠 Proyectos de Innovación y Experimentación
-- **STACK_IA** → Prototipo de inteligencia artificial en Python.
-- **LABCLIENTEWEB** → Laboratorio cliente-servidor (PHP).
-- **EPUNEMI** → Sistema web institucional (HTML).
-- **LUIS-RODRIGUEZ-EC** → Página web personal / portafolio.
+#### 🎓 Trayectoria Académica
+- **UNEMI (Actual)**: Ingeniería en Tecnologías de la Información.
+- **Univ. Agraria del Ecuador**: Formación sólida hasta 5to semestre en Computación e Informática.
 
 ---
 
-### 🏗️ Actividad Reciente
+### 🏗️ Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crodriguezn&theme=github-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoLopez85&theme=github-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -95,20 +58,18 @@ Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módu
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/RunaCode"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/crodriguezn-ec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:carlos.rodriguez@runacode.dev"><img src="https://img.shields.io/badge/Email-carlos.rodriguez@runacode.dev-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/LeonardoLopez85"><img src="https://img.shields.io/badge/GitHub-LeonardoLopez85-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:leo_lalm@hotmail.com"><img src="https://img.shields.io/badge/Email-leo_lalm@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“La mejor forma de predecir el futuro es crearlo.” — Peter Drucker</i>  
+  <i>“La tecnología es mejor cuando une a la gente.”</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crodriguezn&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LeonardoLopez85&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
-<!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=70&section=footer" />
