@@ -85,6 +85,10 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoLopez85&theme=github-dark&hide_border=true" width="96%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLopez85&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de Leonardo Lopez" />
+</p>
+
 ---
 
 ## 🌐 Conéctate conmigo
@@ -105,4 +109,4 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
   <img src="https://komarev.com/ghpvc/?username=LeonardoLopez85&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=90&section=footer&text=%C2%A1Gracias%20por%20visitar%20mi%20perfil!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=70&section=footer" />
