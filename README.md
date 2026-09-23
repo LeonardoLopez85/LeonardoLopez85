@@ -92,7 +92,7 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
 <p align="center">
   <a href="https://github.com/LeonardoLopez85"><img src="https://img.shields.io/badge/GitHub-LeonardoLopez85-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:leo_lalm@hotmail.com"><img src="https://img.shields.io/badge/Email-leo_lalm@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leonardoloipez85/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-leonardoloipez85-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardolopez85/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-leonardolopez85-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
