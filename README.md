@@ -25,12 +25,12 @@ A través de mi empresa **TERACOM**, brindo soporte técnico integral para organ
 
 ## ⚙️ Especialidades
 
-- Soporte técnico presencial y remoto
-- Mantenimiento preventivo y correctivo de equipos
-- Administración de infraestructura básica de redes y equipos
-- Instalación, configuración y optimización de sistemas operativos
-- Soporte para medios de comunicación y entornos empresariales
-- Soluciones de hardware y software para entornos críticos
+- 🛠️ Soporte técnico presencial y remoto
+- 🔧 Mantenimiento preventivo y correctivo de equipos
+- 🌐 Administración de infraestructura básica de redes y equipos
+- 💻 Formateo, actualización e instalación de programas en Windows y macOS
+- 📡 Soporte para medios de comunicación y entornos empresariales
+- ⚙️ Soluciones de hardware y software para entornos críticos
 
 ---
 
@@ -44,8 +44,9 @@ A través de mi empresa **TERACOM**, brindo soporte técnico integral para organ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-Desktop%20Support-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Office%20365-Productividad-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/vMix-Streaming-20232A?style=for-the-badge&logo=video&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-Productividad-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS%20Studio-Streaming-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-Soporte-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
@@ -91,7 +92,7 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
 <p align="center">
   <a href="https://github.com/LeonardoLopez85"><img src="https://img.shields.io/badge/GitHub-LeonardoLopez85-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:leo_lalm@hotmail.com"><img src="https://img.shields.io/badge/Email-leo_lalm@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-lopez-4b355a1b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Leonardo%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardoloipez85/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-leonardoloipez85-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -104,4 +105,4 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
   <img src="https://komarev.com/ghpvc/?username=LeonardoLopez85&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=70&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=90&section=footer&text=%C2%A1Gracias%20por%20visitar%20mi%20perfil!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff" />
