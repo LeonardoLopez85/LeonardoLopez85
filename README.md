@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Leonardo%20Lopez%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="./banner-ecuador.svg" alt="Banner con los colores de la bandera de Ecuador" width="100%" />
 
 <h3 align="center">👋 Hola, soy <strong>Leonardo López</strong></h3>
 <p align="center">
