@@ -1,22 +1,51 @@
 <svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Mantiene los mismos bordes redondeados de tu código original -->
     <clipPath id="rounded">
       <rect width="1200" height="180" rx="18"/>
     </clipPath>
-    <pattern id="bricks" width="160" height="44" patternUnits="userSpaceOnUse">
-      <path d="M0 2C42-1 102 5 160 1M0 42C48 38 108 46 160 41" fill="none" stroke="#211B18" stroke-width="7" stroke-linecap="round" opacity=".46"/>
-      <path d="M0 6C46 3 106 9 160 5M0 38C48 34 108 42 160 37" fill="none" stroke="#FFF5C4" stroke-width="2" stroke-linecap="round" opacity=".25"/>
-      <path d="M5 0C2 14 8 28 4 44M83 0C79 14 86 29 81 44M158 0C154 14 161 28 156 44" fill="none" stroke="#211B18" stroke-width="6" stroke-linecap="round" opacity=".4"/>
+    
+    <!-- Filtro SVG para simular la textura de brocha o acuarela -->
+    <filter id="brush-texture" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="12" xChannelSelector="R" yChannelSelector="G" />
+    </filter>
+
+    <!-- Mantiene una cuadrícula muy sutil como el que tenías para el estilo tech -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
   </defs>
 
   <g clip-path="url(#rounded)">
-    <g transform="rotate(-10 600 90)">
-      <rect x="-300" y="-320" width="1000" height="820" fill="#FFD100"/>
-      <rect x="700" y="-320" width="750" height="820" fill="#07529D"/>
-      <rect x="1450" y="-320" width="750" height="820" fill="#D80027"/>
+    <!-- Fondo base oscuro -->
+    <rect width="1200" height="180" fill="#0d1117" />
+
+    <!-- ========================================== -->
+    <!-- FRANJA AMARILLA (Ocupa el 50% superior: 0-90)-->
+    <!-- ========================================== -->
+    <g filter="url(#brush-texture)">
+      <path d="M-20,-20 L1220,-20 L1220,95 Q900,105 600,85 T-20,95 Z" fill="#FCD116" />
+      <path d="M-20,60 Q 300,100 600,70 T 1220,90 L 1220,-20 L -20,-20 Z" fill="#FFD100" opacity="0.8" />
     </g>
-    <rect x="-40" y="-40" width="1280" height="260" fill="url(#bricks)" opacity=".72"/>
-    <rect x="0" y="0" width="1200" height="180" fill="#FFF2B0" opacity=".06"/>
+
+    <!-- ========================================== -->
+    <!-- FRANJA AZUL (Ocupa el 25% central: 90-135) -->
+    <!-- ========================================== -->
+    <g filter="url(#brush-texture)">
+      <path d="M-20,70 Q 300,110 600,85 T 1220,100 L 1220,140 Q 900,125 600,145 T -20,135 Z" fill="#0033A0" />
+      <path d="M-20,85 Q 250,70 550,110 T 1220,90 L 1220,135 Q 750,150 450,120 T -20,140 Z" fill="#0044CC" opacity="0.7" />
+    </g>
+
+    <!-- ========================================== -->
+    <!-- FRANJA ROJA (Ocupa el 25% inferior: 135-180) -->
+    <!-- ========================================== -->
+    <g filter="url(#brush-texture)">
+      <path d="M-20,120 Q 300,150 600,125 T 1220,140 L 1220,200 L -20,200 Z" fill="#CE1126" />
+      <path d="M-20,135 Q 250,115 550,145 T 1220,120 L 1220,200 L -20,200 Z" fill="#E61A30" opacity="0.8" />
+    </g>
+    
+    <!-- Aplica la cuadrícula encima -->
+    <rect width="1200" height="180" fill="url(#grid)" />
   </g>
 </svg>
