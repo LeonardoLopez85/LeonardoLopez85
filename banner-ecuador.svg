@@ -11,9 +11,11 @@
     </pattern>
   </defs>
   <g clip-path="url(#banner)">
-    <rect x="-20" y="-20" width="1240" height="220" fill="#E3B900"/>
-    <path d="M250-70L1550-70L1120 250L-180 250Z" fill="#07529D"/>
-    <path d="M690-70L1990-70L1560 250L260 250Z" fill="#C90024"/>
+    <g transform="rotate(-12 600 90)">
+      <rect x="-80" y="-180" width="680" height="540" fill="#E3B900"/>
+      <rect x="600" y="-180" width="510" height="540" fill="#07529D"/>
+      <rect x="1110" y="-180" width="510" height="540" fill="#C90024"/>
+    </g>
     <rect x="-20" y="-20" width="1240" height="220" fill="url(#brick-texture)" opacity=".8"/>
     <path d="M-80-70L1280-70L1020 250L-340 250Z" fill="#FFD100" opacity=".35"/>
     <path d="M190-70L1550-70L1290 250L-70 250Z" fill="#0057B7" opacity=".35"/>
