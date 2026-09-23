@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:102a43,100:1d4ed8&height=110&section=header&text=Leonardo%20L%C3%B3pez%20%7C%20IT%20%26%20Support&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Leonardo%20Lopez%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">👋 Hola, soy <strong>Leonardo López</strong></h3>
 <p align="center">
