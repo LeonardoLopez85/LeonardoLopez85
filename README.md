@@ -79,14 +79,17 @@ Mi objetivo es seguir creciendo en tecnologías de infraestructura, automatizaci
 
 ---
 
-## 📈 Actividad en GitHub
+## 📚 Repositorio reciente
+
+### [UNEMI_Fundamentos_Programacion](https://github.com/LeonardoLopez85/UNEMI_Fundamentos_Programacion)
+
+Repositorio académico dedicado a los fundamentos de programación durante mi formación en la UNEMI.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoLopez85&theme=github-dark&hide_border=true" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLopez85&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de Leonardo Lopez" />
+  <a href="https://github.com/LeonardoLopez85/UNEMI_Fundamentos_Programacion">
+    <img src="https://img.shields.io/badge/Ver%20repositorio-UNEMI__Fundamentos__Programacion-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Lenguaje-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
