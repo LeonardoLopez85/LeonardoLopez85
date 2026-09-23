@@ -2,7 +2,7 @@
 
 <h3 align="center">👋 Hola, soy <strong>Leonardo López</strong></h3>
 <p align="center">
-  <strong>Fundador de TERACOM</strong> · <strong>Ingeniero en Tecnologías de la Información</strong> · <strong>Especialista en Soporte Técnico</strong>
+  <strong>Fundador de TERACOM</strong> · <strong>Estudiante de Ingeniería en TI</strong> · <strong>Especialista en Soporte Técnico</strong>
 </p>
 
 <p align="center">
