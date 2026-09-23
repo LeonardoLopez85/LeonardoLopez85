@@ -1,0 +1,36 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Bordes redondeados originales -->
+    <clipPath id="rounded">
+      <rect width="1200" height="180" rx="18"/>
+    </clipPath>
+    
+    <!-- Cuadrícula muy sutil para mantener el estilo "tech" en tu GitHub -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <!-- Fondo oscuro de seguridad -->
+    <rect width="1200" height="180" fill="#0d1117" />
+
+    <!-- ========================================== -->
+    <!-- FRANJA AMARILLA (Ocupa exactamente el 50%) -->
+    <!-- ========================================== -->
+    <polygon points="0,0 652,0 552,180 0,180" fill="#FCD116" />
+
+    <!-- ========================================== -->
+    <!-- FRANJA AZUL (Ocupa exactamente el 25%)     -->
+    <!-- ========================================== -->
+    <polygon points="650,0 952,0 852,180 550,180" fill="#0033A0" />
+
+    <!-- ========================================== -->
+    <!-- FRANJA ROJA (Ocupa exactamente el 25%)     -->
+    <!-- ========================================== -->
+    <polygon points="950,0 1220,0 1220,180 850,180" fill="#CE1126" />
+
+    <!-- Cuadrícula superpuesta (puedes borrar estas 2 líneas si lo quieres 100% liso) -->
+    <rect width="1200" height="180" fill="url(#grid)" />
+  </g>
+</svg>
