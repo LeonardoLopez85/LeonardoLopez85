@@ -109,7 +109,7 @@ Repositorio académico dedicado a los fundamentos de programación durante mi fo
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonardoLopez85&label=Visitas%20al%20perfil&color=0e75b6&style=flat$v=2" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LeonardoLopez85&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=70&section=footer" />
